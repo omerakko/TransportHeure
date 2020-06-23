@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "470912475502",
+    "firebase_url": "https://transport-heure-81213.firebaseio.com",
+    "project_id": "transport-heure-81213",
+    "storage_bucket": "transport-heure-81213.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470912475502:android:3b1abc880b5ee480e3a17f",
+        "android_client_info": {
+          "package_name": "info.androidhive.recyclerview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470912475502-a2r9vp9dog2dfesni040mmekgdlt5d5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLt1fwPMVx42Do-bPsvaVtgJ2lld0FKdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470912475502-a2r9vp9dog2dfesni040mmekgdlt5d5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470912475502:android:a6adc3ececb1ee53e3a17f",
+        "android_client_info": {
+          "package_name": "info.androidhive.transportHeure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470912475502-a2r9vp9dog2dfesni040mmekgdlt5d5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLt1fwPMVx42Do-bPsvaVtgJ2lld0FKdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470912475502-a2r9vp9dog2dfesni040mmekgdlt5d5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
